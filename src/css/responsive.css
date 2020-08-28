@@ -7,7 +7,7 @@
             text-align:center;
         }
         #colection {
-            margin-left: 1em;
+            margin-left: 2.5em;
         }
     /* Jumbotron */
         #bag {
@@ -23,7 +23,7 @@
         #logo-mobile{
             display: block;
             position: absolute;
-            margin-left: 6.5em;
+            margin-left: 5.5em;
             margin-top: -15em;
         }
     /* Garis Variasi */
