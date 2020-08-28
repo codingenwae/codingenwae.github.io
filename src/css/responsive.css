@@ -7,7 +7,7 @@
             text-align:center;
         }
         #colection {
-            margin-left: 4em;
+            margin-left: 1em;
         }
     /* Jumbotron */
         #bag {
@@ -24,7 +24,7 @@
             display: block;
             position: absolute;
             margin-left: 6.5em;
-            margin-top: -18em;
+            margin-top: -15em;
         }
     /* Garis Variasi */
         .line {
