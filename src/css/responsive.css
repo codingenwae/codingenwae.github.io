@@ -1,0 +1,33 @@
+@media (max-width: 768px) {
+    /* Navbar */
+        #navbarbrand {
+            display: none;
+        }
+        .navbar .nav-item {
+            text-align:center;
+        }
+        #colection {
+            margin-left: 4em;
+        }
+    /* Jumbotron */
+        #bag {
+        display: none;
+        }
+        #bag2 {
+            display: inline-block;
+            position: absolute;
+            margin-left: 85%;
+            margin-top: -40px;
+            z-index: 1100;
+        }
+        #logo-mobile{
+            display: block;
+            position: absolute;
+            margin-left: 6.5em;
+            margin-top: -18em;
+        }
+    /* Garis Variasi */
+        .line {
+            margin-left: 26%;
+        }
+}/*Media Query*/

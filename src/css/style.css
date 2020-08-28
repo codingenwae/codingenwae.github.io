@@ -1,0 +1,107 @@
+body {
+    color: black;
+    box-sizing: border-box;
+}
+/* Navbar */
+    #navbarbrand {
+        color: white;
+        margin-right: 600px;
+        margin-left: 40px;
+    }
+    .nav-item {
+        margin-left: 40px;
+    }
+    #bag2 {
+        display: none;
+    }
+/* Jumbroton */
+    .jumbotron {
+        background-image: url('../img/back5.png');
+        background-size: cover;
+        background-position-y: bottom;
+        height: 600px;
+    }
+    .jumbotron h1 {
+        color: white;
+        border-radius: 20px;
+        text-align: left;
+    }
+    .jumbotron p {
+        color: white;
+    }
+    #logo-mobile {
+        display: none;
+    }
+
+/* Main Content */
+
+/* Garis Variasi */
+    .line {
+        margin-left: 34%;
+    }
+    .ln {
+        display: inline-block;
+    }
+    .ln.line1 {
+        border-top: 2px solid rgb(114, 113, 113);
+        width: 20%;
+        height: 20px;
+        margin-right: 20px;
+    }
+    .ln.line2 {
+        border:2px solid rgb(114, 113, 113);
+        border-radius: 40px;
+        width: 40px;
+        height: 40px;
+    }
+    .ln.line3 {
+        border-top: 2px solid rgb(114, 113, 113);
+        width: 20%;
+        height: 20px;
+        margin-left: 20px;
+    }
+/* Product */
+    #products {
+        margin: 20px;
+    }
+/* Footer */
+    footer .container-fluid .card {
+        margin: 0;
+    }
+    /* Sosial Media Icon */
+    .fa {
+        padding: 8px;
+        font-size: 30px;
+        width: 30px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+      }
+      
+      .fa:hover {
+          opacity: 0.7;
+      }
+      
+      .fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+      }
+      
+      .fa-google {
+        background: #dd4b39;
+        color: white;
+      }
+      
+      .fa-linkedin {
+        background: #007bb5;
+        color: white;
+      }    
+      .fa-instagram {
+        background: #125688;
+        color: white;
+      }
